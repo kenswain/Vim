@@ -1,5 +1,5 @@
 inoremap jj <ESC>
-let mapleader = "<Spacedo>
+let mapleader = "<Space>"
 filetype plugin indent on
 syntax on
 set shell=/bin/zsh
